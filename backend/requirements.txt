@@ -1,0 +1,17 @@
+flask
+flask-cors
+requests
+beautifulsoup4
+lxml
+tldextract
+dnspython
+python-whois
+cryptography
+scikit-learn
+numpy
+pandas
+shap
+gunicorn
+catboost
+joblib
+matplotlib
